@@ -1,0 +1,12 @@
+[package]
+name = "gametimer"
+authors = ["birkef <birkef.dev@mail.ru>"]
+repository = "https://github.com/birkef/gametimer"
+license = "MIT"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+humantime = "2.2.0"
+hide_console = "0.2.1"
+winrt-notification = "0.5.1"
