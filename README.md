@@ -16,5 +16,4 @@ Execute the binary with duration in an abbreviated format as the first command-l
 ## Crates used
 
 - [humantime](https://github.com/chronotope/humantime) to format timestamps
-- [hide_console](https://github.com/ml0ccy/hide_console) to hide console
 - [winrt-notification](https://github.com/allenbenz/winrt-notification) to send notification
