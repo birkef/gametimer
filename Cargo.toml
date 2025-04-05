@@ -6,6 +6,10 @@ license = "MIT"
 version = "0.1.0"
 edition = "2021"
 
+[dependencies.tokio]
+version = "1"
+features = ["rt", "rt-multi-thread", "macros", "time", "process"]
+
 [dependencies]
 humantime = "2.2.0"
 winrt-notification = "0.5.1"
